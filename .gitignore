@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+vectorstore/faiss_index/
+scraper/processed_docs/*.txt
+*.log
+.vscode/
+.idea/
+.DS_Store
